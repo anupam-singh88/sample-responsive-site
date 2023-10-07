@@ -1,5 +1,8 @@
 # Sample Responsive Site
 
+![image](https://github.com/anupam-singh88/sample-responsive-site/assets/89381022/dc8af1d3-3213-4497-9b1c-08f77c9dabc5)
+
+
 ## Description
 This project is a responsive website using HTML and CSS.
 
